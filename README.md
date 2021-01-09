@@ -6,7 +6,7 @@
 ![CNN](https://github.com/pavantanniru/neural_networks-cnn-/blob/main/steps_img_of_CNN.png?raw=true)
 
 
-# we can also predict either cat or dog using CNN using Keras ImageDataGenerator object ...
+# we can also predict the given image is  cat or dog using CNN using Keras ImageDataGenerator object ...
 
 ![CNN_img](https://github.com/pavantanniru/neural_networks-cnn-/blob/main/CNN_img.jpg?raw=true)
 
