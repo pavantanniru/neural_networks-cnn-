@@ -8,4 +8,6 @@
 
 # we can also predict either cat or dog using CNN using Keras ImageDataGenerator object ...
 
-![CNN_img]()
+![CNN_img](https://github.com/pavantanniru/neural_networks-cnn-/blob/main/CNN_img.jpg?raw=true)
+
+
